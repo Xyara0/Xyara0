@@ -22,9 +22,9 @@
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
-- 🔭 I’m currently working on [Building my audience](https://twitter.com/Code__oz)
+- 🔭 I’m currently working on [Building my audience](https://www.instagram.com/xyara_off/?hl=fr)
 
-- 📚 I write a book `underrated skills on javascript, make the difference`, get it for FREE if you follow me on [Twitter](https://twitter.com/code__oz) and MP me ! or get it [HERE](https://codeoz.gumroad.com/l/RXLYp)
+- 📚 I write a book `underrated skills on javascript, make the difference`, get it for FREE if you follow me on [Twitter](https://www.instagram.com/xyara_off/?hl=fr) and MP me ! or get it [HERE](https://discord.gg/ENtEWrJF)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Code-Oz](https://github.com/Xyara0)
 
