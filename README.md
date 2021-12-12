@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Xyara</h1>
-<h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
+<h3 align="center">Love Lua, love writting dev article and share my knowledges</h3>
 
 <h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
 
 <p align="left">
-    <h3 align="center">My latest project was -> <a href="https://www.chillflix.art/"> Chillflix 🎶 - Radio Chill Lofi </a></h3>
+    <h3 align="center">My latest project was -> <a href="https://github.com/Xyara0/XyaraBase-V2"> XyaraBaseV2 🎶 - </a></h3>
 </p>
 
 <p align="left">
@@ -26,11 +26,11 @@
 
 - 📚 I write a book `underrated skills on javascript, make the difference`, get it for FREE if you follow me on [Twitter](https://twitter.com/code__oz) and MP me ! or get it [HERE](https://codeoz.gumroad.com/l/RXLYp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Code-Oz](https://github.com/Code-Oz) and https://www.npmjs.com/~code-oz
+- 👨‍💻 All of my projects are available at [https://github.com/Code-Oz](https://github.com/Xyara0)
 
-- 📝 I regularly write articles on [https://dev.to/codeoz](https://dev.to/codeoz)
+- 📝 I regularly write articles on [https://dev.to/codeoz](https://discord.gg/ENtEWrJF)
 
-- 📫 My newletters **https://www.getrevue.co/profile/code__oz**
+- 📫 My newletters **xyaraischicken@gmail.com**
 
 - <strong>I'm AWS Certified with AWS Certified Developer – Associate </strong>
 
