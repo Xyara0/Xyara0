@@ -28,6 +28,6 @@
 
 - 📝 I regularly write articles on [https://discord.gg/tdT2guzAFr]( https://discord.gg/tdT2guzAFr)
 
-- 📫 My newletters **xyaraischicken@gmail.com**
+- 📫 My newletters **xyaraezlesdoxeur@gmail.com**
 
 - <strong>I'm AWS Certified with AWS Certified Developer – Associate </strong>
